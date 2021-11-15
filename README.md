@@ -1,3 +1,5 @@
+## Time Calculator
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
@@ -45,3 +47,6 @@ The unit tests for this project are in `test_module.py`. We imported the tests f
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+Test of my solution:
+[Here](https://replit.com/@Joan-de-Jesusde/boilerplate-time-calculator)
